@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 778fbfe9a7e4a96418b9312dbfc4d67c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156015
+  packageName: Unity Learn | FPS Microgame | URP
+  packageVersion: 3.1.0
+  assetPath: Assets/FPS/Art/Materials/Enemies/Turret_Eye.mat
+  uploadId: 627568

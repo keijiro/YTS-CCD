@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d57ebae9f701b57448648b380d0beb65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156015
+  packageName: Unity Learn | FPS Microgame | URP
+  packageVersion: 3.1.0
+  assetPath: Assets/FPS/Animation/Controllers/Turret_AnimationController.controller
+  uploadId: 627568
