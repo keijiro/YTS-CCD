@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6741187502321868830}
   m_Layer: 0
-  m_Name: Rig
+  m_Name: Rig DCD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80,7 +80,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43aa59c5d2fce4eaa89d79c17277867b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _bulletPrefab: {fileID: 4847451066687244203, guid: cbef2f591993e47bf98f2019f97e3569, type: 3}
+  _bulletPrefab: {fileID: 4847451066687244203, guid: e97daa70627de4ff4b57e2d1ed6dbbc8, type: 3}
   _initialVelocity: {x: 0, y: 0, z: 25}
   _interval: 0.05
 --- !u!1 &6864312202788261518
@@ -218,7 +218,7 @@ Rigidbody:
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 1
+  m_CollisionDetection: 0
 --- !u!1 &7206770976143523960
 GameObject:
   m_ObjectHideFlags: 0
@@ -385,7 +385,7 @@ Rigidbody:
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 1
+  m_CollisionDetection: 0
 --- !u!1001 &1809715975827653100
 PrefabInstance:
   m_ObjectHideFlags: 0

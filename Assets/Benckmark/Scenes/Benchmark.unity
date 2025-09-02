@@ -318,7 +318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a216b9af3864b419d91447d166841cbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefab: {fileID: 1044748844534715965, guid: f0e8a06f155ed4af1be0875f355c8393, type: 3}
+  _prefab: {fileID: 6668373367500998688, guid: a060983ca54f6401cb8cbfff519dfc43, type: 3}
   _spawnCount: 100
   _delta: {x: 1.1, y: 0, z: 0}
 --- !u!4 &1247632378
